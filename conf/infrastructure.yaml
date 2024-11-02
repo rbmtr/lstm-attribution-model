@@ -1,0 +1,16 @@
+# Google Cloud Platform's service account credentials
+gcp:
+  credentials_json_file: ''
+
+# location to write outputs
+outputs_location:
+  project_id: ''
+  dataset_id: 'attribution_comportementale'
+
+bucket_name: ''
+
+local_dir_path: '/tmp/'
+
+account: ''
+customer_domain: ''
+customer_name: ''
